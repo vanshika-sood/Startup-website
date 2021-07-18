@@ -1,2 +1,2 @@
 # startup-website
-A startup website created using html , CSS and Bootstrap
+A responsive single page startup website created using HTML , CSS and Bootstrap5
